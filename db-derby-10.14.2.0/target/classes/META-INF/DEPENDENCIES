@@ -1,0 +1,33 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache Derby Database Engine and Embedded JDBC Driver
+
+
+From: 'an unknown organization'
+  - JSON.simple (http://code.google.com/p/json-simple/) com.googlecode.json-simple:json-simple:jar:1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'JUnit' (http://www.junit.org)
+  - JUnit (http://junit.org) junit:junit:jar:3.8.2
+    License: Common Public License Version 1.0  (http://www.opensource.org/licenses/cpl1.0.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Clerezza Ext - Json.simple OSGi Bundle (http://clerezza.apache.org/mvn-site/org.json.simple/) org.apache.clerezza.ext:org.json.simple:bundle:0.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Lucene Common Analyzers (http://lucene.apache.org/lucene-parent/lucene-analyzers-common) org.apache.lucene:lucene-analyzers-common:jar:8.2.0
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Lucene Core (http://lucene.apache.org/lucene-parent/lucene-core) org.apache.lucene:lucene-core:jar:8.2.0
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Lucene Queries (http://lucene.apache.org/lucene-parent/lucene-queries) org.apache.lucene:lucene-queries:jar:8.2.0
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Lucene QueryParsers (http://lucene.apache.org/lucene-parent/lucene-queryparser) org.apache.lucene:lucene-queryparser:jar:8.2.0
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Lucene Sandbox (http://lucene.apache.org/lucene-parent/lucene-sandbox) org.apache.lucene:lucene-sandbox:jar:8.2.0
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
