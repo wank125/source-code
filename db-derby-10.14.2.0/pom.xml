@@ -95,6 +95,12 @@
                     <compilerArgument>-Xlint:-options</compilerArgument>
                 </configuration>
             </plugin>
-        </plugins>
+    </plugins>
+    <resources>
+	    <resource>
+	         <directory>src/main/resources</directory>
+	         <targetPath>META-INF/</targetPath>
+	      </resource>
+      </resources>
     </build>
 </project>
