@@ -1,1 +1,1 @@
-## source code for everyone
+## Compile source code by self
