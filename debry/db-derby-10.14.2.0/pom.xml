@@ -20,7 +20,7 @@
 
     <properties>
         <compileSource>1.8</compileSource>
-        <junit.version>3.8.2</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
